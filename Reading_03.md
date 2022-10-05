@@ -35,3 +35,5 @@ Different Goals for different time frames.
 <li> Strategic goals: A long-term goal, or strategic goal, may involve moving all the branches from dedicated communication lines to frame relay, implementing IPSec virtual private networks (VPNs) for all remote users instead of dial-up entry, and integrating wireless technology with the comprehensive security solutions and controls existing within the environment.</li>
 </ul>
 </P>
+
+Source: https://resources.infosecinstitute.com/certification/security-risk-management/
