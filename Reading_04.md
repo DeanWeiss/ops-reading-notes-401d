@@ -6,6 +6,7 @@ Dean Weiss
 <p>"Developed by a global community of cybersecurity professionals, CIS Benchmarks are a collection of best practices for securely configuring IT systems, software, networks, and cloud infrastructure." - ibm.com </p>
 
 <p>
+  
 ### There are seven layers of core categories of CIS Benchmarks:
 <ol>
   <li> <strong>Operating systems benchmarks</strong> cover security configurations of core operating systems, such as Microsoft Windows, Linux, and Apple OSX. These include best-practice guidelines for local and remote access restrictions, user profiles, driver installation protocols, and internet browser configurations. </li>
@@ -18,6 +19,7 @@ Dean Weiss
 </ol>
 </p>
 <p>
+  
 ### Benefits of CIS Benchmarks
   <ul>
     <li> The collected expertise of a global community of IT and cybersecurity professionals. </li> 
