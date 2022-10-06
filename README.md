@@ -7,3 +7,5 @@ Reading Notes for Ops 401
 <br>
 [Reading Notes 03](https://github.com/DeanWeiss/ops-reading-notes-401d/blob/main/Reading_03.md)
 <br>
+[Reading Notes 04](https://github.com/DeanWeiss/ops-reading-notes-401d/blob/main/Reading_04.md)
+<br>
