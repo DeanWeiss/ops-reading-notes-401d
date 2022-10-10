@@ -9,3 +9,5 @@ Reading Notes for Ops 401
 <br>
 [Reading Notes 04](https://github.com/DeanWeiss/ops-reading-notes-401d/blob/main/Reading_04.md)
 <br>
+[Reading Notes 06](https://github.com/DeanWeiss/ops-reading-notes-401d/blob/main/Reading_06.md)
+<br>
