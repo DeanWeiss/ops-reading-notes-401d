@@ -2,7 +2,9 @@ Dean Weiss
 19 October 2022
 
 # Reverse Proxy
-<p> #### What is Reverse Proxy? 
+<p> 
+  
+  #### What is Reverse Proxy? 
   Reverse Proxy is a server that sits in front of web servers and forwards clients ( e.g. web browsers) requests to those web servers. They increase security performance and reliability. 
   
  #### What is a Proxy Server?
