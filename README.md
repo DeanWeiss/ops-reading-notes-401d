@@ -23,3 +23,5 @@ Reading Notes for Ops 401
 <br>
 [Reading Notes 13](https://github.com/DeanWeiss/ops-reading-notes-401d/blob/main/Reading_13.md)
 <br>
+[Reading Notes 14](https://github.com/DeanWeiss/ops-reading-notes-401d/blob/main/Reading_14.md)
+<br>
