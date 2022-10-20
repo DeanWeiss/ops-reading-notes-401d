@@ -14,19 +14,22 @@ Dean Weiss
   
   While NIDS does real-time detection, meaning it can log evidence that an attacker might try to erease and allows for a quicker response time it also turns up more fals positivies than HIDS. 
   
+<ul>   
   Pros of NIDS
-    - Tuned to Specific Content in Network Packets
-    - Look at Data in the Context of the Protocol
-    - Can qualify and Quantify Attacks
-    - Make it easier to keep up with regulations
-    - Boost efficiency
-  
+    <li> - Tuned to Specific Content in Network Packets </li>
+    <li> - Look at Data in the Context of the Protocol </li>
+    <li> - Can qualify and Quantify Attacks </li>
+    <li> - Make it easier to keep up with regulations </li>
+    <li> - Boost efficiency </li>
+</ul>
+<ul>
   Cons of NIDS
-    - Will not prevent incidents by themselves
-    - Experience Engineer is Needed to Administer Them
-    - Do not Process Encrypt Packets
-    - IP Packets can be Faked
-    - False Positives are Frequent
-    - Susceptible to Protocol Based Attacks
-    - Signature Library Needs to be Continually Updated to Detect the Latest Threats
+    <li> - Will not prevent incidents by themselves </li>
+    <li> - Experience Engineer is Needed to Administer Them </li>
+    <li> - Do not Process Encrypt Packets </li>
+    <li> - IP Packets can be Faked </li>
+    <li> - False Positives are Frequent </li>
+    <li> - Susceptible to Protocol Based Attacks </li>
+   <li> - Signature Library Needs to be Continually Updated to Detect the Latest Threats </li>
+ </ul>
 </p>
